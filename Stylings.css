@@ -1,4 +1,4 @@
-title
+h1
 {
     font-size: larger;
     font-style: bold;
@@ -6,7 +6,7 @@ title
     color: black;
     align-content: center
 }
-h1
+h2
 {
     font-size: large;
     font-style: normal;
