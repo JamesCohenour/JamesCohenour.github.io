@@ -4,7 +4,7 @@ h1
     font-style: bold;
     font-family: 'Times New Roman', Times, serif;
     color: black;
-    align-content: center
+    text-align: center
 }
 h2
 {
@@ -12,7 +12,7 @@ h2
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     color: black;
-    align-content: center;
+    text-align: center;
 }
 p
 {
@@ -21,4 +21,9 @@ p
     font-family: 'Times New Roman', Times, serif;
     color: black;
     text-align: left
+}
+table
+{
+    border-collapse: separate;
+    border-spacing: 40px;
 }
