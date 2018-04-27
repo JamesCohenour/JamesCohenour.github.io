@@ -4,7 +4,7 @@ function show(id)
 {
     for(i=0; i < articles.length; i++)
     {
-        if(articles[i] == id)
+        if(articles[i] === id)
         {
             document.getElementById(articles[i]).style.display = 'block';
         }
