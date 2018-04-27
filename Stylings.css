@@ -1,3 +1,7 @@
+nav
+{
+    background-color: slategray
+}
 h1
 {
     font-size: 48pt;
@@ -8,7 +12,6 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    text-shadow: 20px, 20px, 5px,black;
 }
 h2
 {
@@ -20,7 +23,6 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    text-shadow: 20px, 20px, 5px,black;
 }
 p
 {
@@ -33,6 +35,7 @@ p
     margin-left: auto;
     margin-right: auto;
     height: 100%;
+    background-color: midnightblue;
 }
 table
 {
@@ -44,7 +47,6 @@ table
 }
 button
 {
-    box-shadow: 20px, 20px, 5px,black;
     border: none;
     width: 120px;
     height: 60px;
