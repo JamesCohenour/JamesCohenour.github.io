@@ -46,6 +46,7 @@ table
 #Welcome2
 {
     display: block;
+    background-image: url("Welcome.png");
 }
 #Sapiens1
 {
@@ -54,6 +55,7 @@ table
 #Sapiens2
 {
     display: none;
+    background-image: url("Sapiens.png");
 }
 #AriHun1
 {
@@ -62,6 +64,7 @@ table
 #AriHun2
 {
     display: none;
+    background-image: url("HungerGames.png");
 }
 #Wild1
 {
@@ -70,14 +73,7 @@ table
 #Wild2
 {
     display: none;
-}
-#Anger1
-{
-    display: none;
-}
-#Anger2
-{
-    display: none;
+    background-image: url("Wild.png");
 }
 #Breath1
 {
@@ -86,4 +82,5 @@ table
 #Breath2
 {
     display: none;
+    background-image: url("Breath.png");
 }
