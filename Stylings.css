@@ -2,6 +2,12 @@ nav
 {
     background-color: slategray
 }
+article
+{
+    background-color: midnightblue;
+    height: 100%;
+    width: 100%;
+}
 h1
 {
     font-size: 48pt;
@@ -28,14 +34,12 @@ p
 {
     font-size: 24pt;
     font-style: normal;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: black;
     text-align: center;
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-    height: 100%;
-    background-color: midnightblue;
 }
 table
 {
@@ -50,8 +54,10 @@ button
     border: none;
     width: 120px;
     height: 60px;
+    font-size: 18pt;
     background-color: slategray;
-    border-bottom: 2pt, black;
+    border-bottom: 2pt;
+    border-bottom-color: black;
 }
 #Welcome1
 {
