@@ -42,6 +42,13 @@ table
     margin-right: auto;
     align-content: center;
 }
+button
+{
+    box-shadow: black;
+    border: none;
+    width: 10%;
+    height: 60px;
+}
 #Welcome1
 {
     display: block;
