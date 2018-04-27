@@ -50,6 +50,8 @@ button
     border: none;
     width: 120px;
     height: 60px;
+    background-color: slategray;
+    border-bottom: 2pt, black;
 }
 #Welcome1
 {
