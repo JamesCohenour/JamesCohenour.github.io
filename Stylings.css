@@ -8,7 +8,7 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    text-shadow: 5px, 5px, 2px, gray;
+    text-shadow: 10px, 10px, 3px,black;
 }
 h2
 {
@@ -20,7 +20,7 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    text-shadow: 5px, 5px, 2px, gray;
+    text-shadow: 10px, 10px, 3px,black;
 }
 p
 {
@@ -44,7 +44,7 @@ table
 }
 button
 {
-    box-shadow: black;
+    box-shadow: 10px, 10px, 3px,black;
     border: none;
     width: 120px;
     height: 60px;
