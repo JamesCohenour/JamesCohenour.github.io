@@ -8,6 +8,7 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
+    text-shadow: 5px, 5px, 2px, gray;
 }
 h2
 {
@@ -19,6 +20,7 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
+    text-shadow: 5px, 5px, 2px, gray;
 }
 p
 {
