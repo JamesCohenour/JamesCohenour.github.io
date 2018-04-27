@@ -39,27 +39,51 @@ table
     margin-right: auto;
     align-content: center;
 }
-#Welcome
+#Welcome1
 {
     display: block;
 }
-#Sapiens
+#Welcome2
+{
+    display: block;
+}
+#Sapiens1
 {
     display: none;
 }
-#AriHun
+#Sapiens2
 {
     display: none;
 }
-#Wild
+#AriHun1
 {
     display: none;
 }
-#Anger
+#AriHun2
 {
     display: none;
 }
-#Breath
+#Wild1
+{
+    display: none;
+}
+#Wild2
+{
+    display: none;
+}
+#Anger1
+{
+    display: none;
+}
+#Anger2
+{
+    display: none;
+}
+#Breath1
+{
+    display: none;
+}
+#Breath2
 {
     display: none;
 }
