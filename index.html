@@ -1,8 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script>
+    var articles = new Array('Welcome', 'Sapiens', 'AriHun', 'Wild', 'Anger', 'Breath');
+
+    function show(id)
+    {
+        for(i=0; i < articles.length; i++)
+        {
+            if(articles[i] == id)
+            {
+                document.getElementById(articles[i]).style.display = 'block';
+            }
+            else
+            {
+                document.getElementById(articles[i]).style.display = 'none';
+            }   
+        }   
+    }
+    </script>
     <link rel="stylesheet" href="Stylings.css">
-    <link rel="scripts" href="Scripts.js">
 </head>
 <title>Eng 125 Final Project</title>
 <nav>
