@@ -52,10 +52,6 @@ table
     margin-right: auto;
     align-content: center;
 }
-td
-{
-    border-bottom: 2pt, solid, black;
-}
 button
 {
     width: 160px;
@@ -63,6 +59,7 @@ button
     font-size: 16pt;
     background-color: slategray;
     cursor: pointer;
+    border-bottom: 2pt, solid, black;
 }
 #Welcome1
 {
