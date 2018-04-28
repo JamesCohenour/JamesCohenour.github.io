@@ -65,6 +65,7 @@ button
 #Welcome1
 {
     display: block;
+    border: 2pt solid black;
 }
 #Welcome2
 {
@@ -73,6 +74,7 @@ button
 #Sapiens1
 {
     display: none;
+    border: 2pt solid black;
 }
 #Sapiens2
 {
@@ -81,6 +83,7 @@ button
 #AriHun1
 {
     display: none;
+    border: 2pt solid black;
 }
 #AriHun2
 {
@@ -89,6 +92,7 @@ button
 #Wild1
 {
     display: none;
+    border: 2pt solid black;
 }
 #Wild2
 {
@@ -97,8 +101,18 @@ button
 #Breath1
 {
     display: none;
+    border: 2pt solid black;
 }
 #Breath2
+{
+    display: none;
+}
+#Me1
+{
+    display: none;
+    border: 2pt solid black;
+}
+#Me2
 {
     display: none;
 }
