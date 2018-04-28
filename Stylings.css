@@ -21,7 +21,6 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-color: white;
 }
 h2
 {
@@ -33,7 +32,6 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-color: white;
 }
 p
 {
@@ -61,8 +59,7 @@ button
     height: 80px;
     font-size: 16pt;
     background-color: slategray;
-    border-bottom: 2pt;
-    border-bottom-color: black;
+    border-bottom: 2pt, solid, black;
 }
 #Welcome1
 {
