@@ -1,10 +1,13 @@
+body
+{
+    background-color: cornsilk;
+}
 nav
 {
     background-color: slategray
 }
 article
 {
-    background-color: midnightblue;
     height: 100%;
     width: 100%;
 }
@@ -19,7 +22,6 @@ h1
     margin-right: auto;
     align-content: center;
     background-color: white;
-    padding: 0%;
 }
 h2
 {
@@ -32,7 +34,6 @@ h2
     margin-right: auto;
     align-content: center;
     background-color: white;
-    padding: 0;
 }
 p
 {
