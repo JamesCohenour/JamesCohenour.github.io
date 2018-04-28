@@ -66,6 +66,8 @@ button
 {
     display: block;
     border: 2pt solid black;
+    border-left-width: 0;
+    border-right-width: 0;
 }
 #Welcome2
 {
@@ -75,6 +77,8 @@ button
 {
     display: none;
     border: 2pt solid black;
+    border-left-width: 0;
+    border-right-width: 0;
 }
 #Sapiens2
 {
@@ -84,6 +88,8 @@ button
 {
     display: none;
     border: 2pt solid black;
+    border-left-width: 0;
+    border-right-width: 0;
 }
 #AriHun2
 {
@@ -93,6 +99,8 @@ button
 {
     display: none;
     border: 2pt solid black;
+    border-left-width: 0;
+    border-right-width: 0;
 }
 #Wild2
 {
@@ -102,6 +110,8 @@ button
 {
     display: none;
     border: 2pt solid black;
+    border-left-width: 0;
+    border-right-width: 0;
 }
 #Breath2
 {
@@ -111,6 +121,8 @@ button
 {
     display: none;
     border: 2pt solid black;
+    border-left-width: 0;
+    border-right-width: 0;
 }
 #Me2
 {
