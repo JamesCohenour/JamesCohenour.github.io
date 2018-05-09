@@ -11,8 +11,11 @@
             if(articles[i] === id || articles[i] === id2)
             {
                 document.getElementById(articles[i]).style.display = 'block';
-                document.getElementById(articles[i]).style.marginLeft = '20%';
-                document.getElementById(articles[i]).style.marginRight = '20%';
+                if(articles[i] === id2)
+                {
+                    document.getElementById(articles[i]).style.marginLeft = '20%';
+                    document.getElementById(articles[i]).style.marginRight = '20%';
+                }
             }
             else
             {
