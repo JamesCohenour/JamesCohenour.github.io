@@ -7,6 +7,17 @@ nav
     background-color: rgb(55, 83, 112);
     width: 100%;
 }
+title
+{
+    font-size: 44pt;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
 article
 {
     height: 100%;
