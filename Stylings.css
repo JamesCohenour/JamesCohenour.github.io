@@ -85,6 +85,8 @@ button
 #Sapiens2
 {
     display: none;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #AriHun1
 {
@@ -96,6 +98,8 @@ button
 #AriHun2
 {
     display: none;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #Wild1
 {
@@ -107,6 +111,8 @@ button
 #Wild2
 {
     display: none;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #Breath1
 {
@@ -118,6 +124,8 @@ button
 #Breath2
 {
     display: none;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #Me1
 {
@@ -129,4 +137,6 @@ button
 #Me2
 {
     display: none;
+    margin-left: 20%;
+    margin-right: 20%;
 }
