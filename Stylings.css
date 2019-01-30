@@ -1,19 +1,19 @@
 body
 {
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: repeat;
 }
 nav
 {
     width: 100%;
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: inherit;
 }
 article
 {
     height: 100%;
     width: 100%;
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: inherit;
 }
 h1
@@ -26,7 +26,7 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: inherit;
 }
 h2
@@ -39,7 +39,7 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: inherit;
 }
 p
@@ -52,7 +52,7 @@ p
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: inherit;
 }
 table
@@ -63,7 +63,7 @@ table
     margin-right: auto;
     align-content: center;
     border-bottom: 5pt solid black;
-    background-image: "button2.png";
+    background-image: url("button2.png");
     background-repeat: inherit;
 }
 button
