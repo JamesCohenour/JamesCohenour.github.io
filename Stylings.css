@@ -1,17 +1,21 @@
 body
 {
     background-image: url("button1.png");
-    background-size: 50%;
+    background-size: 40%;
     background-repeat: repeat;
 }
 nav
 {
     width: 100%;
+    background-repeat: repeat-y;
+
 }
 article
 {
     height: 100%;
     width: 100%;
+    background-repeat: repeat-x;
+
 }
 h1
 {
@@ -23,6 +27,8 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
+    background-repeat: repeat-y;
+
 }
 h2
 {
@@ -34,6 +40,8 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
+    background-repeat: repeat-x;
+
 }
 p
 {
@@ -45,6 +53,8 @@ p
     align-content: center;
     margin-left: auto;
     margin-right: auto;
+    background-repeat: repeat-y;
+
 }
 table
 {
@@ -54,6 +64,8 @@ table
     margin-right: auto;
     align-content: center;
     border-bottom: 5pt solid black;
+    background-repeat: repeat-x;
+
 }
 button
 {
@@ -63,6 +75,7 @@ button
     color: whitesmoke;
     background-color: darkslateblue;
     cursor: pointer;
+    background-repeat: repeat-y;
 }
 #Dungeon1
 {
