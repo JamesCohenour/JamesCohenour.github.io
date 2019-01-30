@@ -73,9 +73,6 @@ table
     margin-right: auto;
     align-content: center;
     border-bottom: 5pt solid black;
-    background-image: url("button1.png");
-    background-size: 41%;
-    background-repeat: repeat;
 
 }
 button
@@ -86,9 +83,6 @@ button
     color: whitesmoke;
     background-color: darkslateblue;
     cursor: pointer;
-    background-image: url("button1.png");
-    background-size: 49%;
-    background-repeat: repeat;
 }
 #Dungeon1
 {
