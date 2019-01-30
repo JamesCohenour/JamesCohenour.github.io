@@ -1,6 +1,6 @@
 body
 {
-    background-color: cornsilk;
+    background-color: gray;
 }
 nav
 {
@@ -59,82 +59,43 @@ button
     width: 180px;
     height: 75px;
     font-size: 16pt;
-    background-color: slategray;
+    background-image: url("button1.png");
     cursor: pointer;
 }
-#Welcome1
+#Dungeon1
 {
     display: block;
     border: 2pt solid black;
     border-left-width: 0;
     border-right-width: 0;
 }
-#Welcome2
+#Dungeon2
 {
     display: block;
     margin-left: 20%;
     margin-right: 20%;
 }
-#Sapiens1
+#Future1
 {
     display: none;
     border: 2pt solid black;
     border-left-width: 0;
     border-right-width: 0;
 }
-#Sapiens2
+#Future2
 {
     display: none;
     margin-left: 20%;
     margin-right: 20%;
 }
-#AriHun1
+#About1
 {
     display: none;
     border: 2pt solid black;
     border-left-width: 0;
     border-right-width: 0;
 }
-#AriHun2
-{
-    display: none;
-    margin-left: 20%;
-    margin-right: 20%;
-}
-#Wild1
-{
-    display: none;
-    border: 2pt solid black;
-    border-left-width: 0;
-    border-right-width: 0;
-}
-#Wild2
-{
-    display: none;
-    margin-left: 20%;
-    margin-right: 20%;
-}
-#Breath1
-{
-    display: none;
-    border: 2pt solid black;
-    border-left-width: 0;
-    border-right-width: 0;
-}
-#Breath2
-{
-    display: none;
-    margin-left: 20%;
-    margin-right: 20%;
-}
-#Me1
-{
-    display: none;
-    border: 2pt solid black;
-    border-left-width: 0;
-    border-right-width: 0;
-}
-#Me2
+#About2
 {
     display: none;
     margin-left: 20%;
