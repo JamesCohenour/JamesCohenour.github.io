@@ -15,24 +15,19 @@ article
 {
     height: 100%;
     width: 100%;
-    background-image: url("button1.png");
-    background-size: 47%;
-    background-repeat: repeat;
-
+    background-color: rgb(18, 14, 44);
 }
 h1
 {
     font-size: 44pt;
     font-style: bold;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(18, 14, 44);;
+    color: whitesmoke;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-image: url("button1.png");
-    background-size: 38%;
-    background-repeat: repeat;
+    background-color: rgb(18, 14, 44);
 
 }
 h2
@@ -40,30 +35,24 @@ h2
     font-size: 36pt;
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(18, 14, 44);;
+    color: whitesmoke;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-image: url("button1.png");
-    background-size: 42%;
-    background-repeat: repeat;
-
+    background-color: rgb(18, 14, 44);
 }
 p
 {
     font-size: 24pt;
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(18, 14, 44);;
+    color: whitesmoke;
     text-align: center;
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-    background-image: url("button1.png");
-    background-size: 43%;
-    background-repeat: repeat;
-
+    background-color: rgb(18, 14, 44);
 }
 table
 {
