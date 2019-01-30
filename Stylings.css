@@ -1,12 +1,13 @@
 body
 {
-    background-image: url("button2.png");
+    background-image: url("button1.png");
+    background-size: 5%;
     background-repeat: repeat;
 }
 nav
 {
     width: 100%;
-    background-image: url("button2.png");
+    background-image: url("button1.png");
     background-repeat: inherit;
 }
 article
