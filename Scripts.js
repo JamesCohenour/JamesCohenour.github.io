@@ -1,4 +1,4 @@
-var articles = new Array('Welcome', 'Sapiens', 'AriHun', 'Wild', 'Anger', 'Breath');
+var articles = new Array('Dungeon', 'Future', 'About');
 
 function show(id)
 {
