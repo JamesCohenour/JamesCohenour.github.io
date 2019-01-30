@@ -2,7 +2,7 @@ body
 {
     background-image: url("button1.png");
     background-size: 40%;
-    background-repeat: repeat;
+    background-repeat: repeat-y;
 }
 nav
 {
