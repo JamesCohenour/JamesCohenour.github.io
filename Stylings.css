@@ -60,6 +60,7 @@ button
     height: 75px;
     font-size: 16pt;
     background-image: url("button1.png");
+    background-size: contain;
     cursor: pointer;
 }
 #Dungeon1
