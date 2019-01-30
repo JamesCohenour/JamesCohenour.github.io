@@ -2,19 +2,18 @@ body
 {
     background-image: url("button1.png");
     background-size: 40%;
-    background-repeat: repeat-y;
+    background-repeat: repeat;
 }
 nav
 {
     width: 100%;
-    background-repeat: repeat-y;
-
+    background-size: 45%;
 }
 article
 {
     height: 100%;
     width: 100%;
-    background-repeat: repeat-x;
+    background-size: 47%;
 
 }
 h1
@@ -27,7 +26,7 @@ h1
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-repeat: repeat-y;
+    background-size: 38%;
 
 }
 h2
@@ -40,7 +39,7 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    background-repeat: repeat-x;
+    background-size: 42%;
 
 }
 p
@@ -53,7 +52,7 @@ p
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-    background-repeat: repeat-y;
+    background-size: 43%;
 
 }
 table
@@ -64,7 +63,7 @@ table
     margin-right: auto;
     align-content: center;
     border-bottom: 5pt solid black;
-    background-repeat: repeat-x;
+    background-size: 41%;
 
 }
 button
@@ -75,7 +74,7 @@ button
     color: whitesmoke;
     background-color: darkslateblue;
     cursor: pointer;
-    background-repeat: repeat-y;
+    background-size: 49%;
 }
 #Dungeon1
 {
