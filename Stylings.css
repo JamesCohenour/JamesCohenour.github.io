@@ -1,6 +1,6 @@
 body
 {
-    background-color: gray;
+    background-image: "button1.png";
 }
 nav
 {
@@ -59,7 +59,7 @@ button
     width: 180px;
     height: 75px;
     font-size: 16pt;
-    background-image: url("button2.png");
+    background-color: darkslateblue;
     background-size: contain;
     cursor: pointer;
 }
