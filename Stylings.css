@@ -15,7 +15,7 @@ article
 {
     height: 100%;
     width: 100%;
-    text-shadow: -1px -1px 0 #181444;
+    text-shadow: -2px -2px 0 #181444;
 }
 h1
 {
@@ -27,7 +27,7 @@ h1
     margin-left: 35%;
     margin-right: 35%;
     align-content: center;
-    text-shadow: -1px -1px 0 #181444;
+    text-shadow: -2px -2px 0 #181444;
 }
 h2
 {
@@ -39,7 +39,7 @@ h2
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    text-shadow: -1px -1px 0 #181444;
+    text-shadow: -2px -2px 0 #181444;
 }
 p
 {
@@ -51,7 +51,7 @@ p
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-    text-shadow: -1px -1px 0 #181444
+    text-shadow: -2px -2px 0 #181444
 }
 table
 {
