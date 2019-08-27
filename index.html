@@ -1,34 +1,34 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <script>
-    var articles = new Array('Dungeon1', 'Dungeon2', 'Future1', 'Future2', 'About1', 'About2');
-
-    function show(id, id2)
-    {
-        for(i=0; i < articles.length; i++)
-        {
-            if(articles[i] === id || articles[i] === id2)
-            {
-                document.getElementById(articles[i]).style.display = 'block';
-                if(articles[i] === id2)
+    <head>
+        <script>
+            var Projects = new Array('Java', 'Java_Projects', 'C/C++', 'C_Projects', 'Ruby/Python', 'RP_Projects', 'Android', 'Android_Projects');
+                
+                function show(id, id2)
                 {
-                    document.getElementById(articles[i]).style.marginLeft = '20%';
-                    document.getElementById(articles[i]).style.marginRight = '20%';
+                    for(i=0; i < Projects.length; i++)
+                    {
+                        if(Projects[i] === id || Projects[i] === id2)
+                        {
+                            document.getElementById(Projects[i]).style.display = 'block';
+                            if(Projects[i] === id2)
+                            {
+                                document.getElementById(Projects[i]).style.marginLeft = '20%';
+                                document.getElementById(Projects[i]).style.marginRight = '20%';
+                            }
+                        }
+                        else
+                        {
+                            document.getElementById(Projects[i]).style.display = 'none';
+                        }   
+                    }   
                 }
-            }
-            else
-            {
-                document.getElementById(articles[i]).style.display = 'none';
-            }   
-        }   
-    }
-    </script>
+        </script>
     <link rel="stylesheet" href="Stylings.css">
-</head>
-<title>ZGame-Logic Co.</title>
+    </head>
+<title>Portfolio</title>
 <body>
-<h1>ZGame-Logic Co.</h1>
+<h1>James Cohenour</h1>
 <nav>
     <table>
         <tr>
