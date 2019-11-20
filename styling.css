@@ -78,7 +78,7 @@ h2
     transition: 1s;
 }
 
-#Hashinginfo:hover
+#HashingInfo:hover
 {
     box-shadow: 10px 10px #565656;
     margin-left: 1vw;
@@ -142,7 +142,7 @@ h2
     transition: 1s;
 }
 
-#Camerainfo:hover
+#CameraInfo:hover
 {
     box-shadow: 10px 10px #565656;
     margin-left: 1vw;
