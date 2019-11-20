@@ -21,7 +21,7 @@ h2
     background-color: #76323f;
 }
 
-#Javainfo
+#MazeInfo
 {
     background-color: #76323f;
     color: #d8bea5;
@@ -30,14 +30,14 @@ h2
     transition: 1s;
 }
 
-#Javainfo:hover
+#MazeInfo:hover
 {
     box-shadow: 10px 10px #565656;
     margin-left: 1vw;
     padding-left: .5vw;
 }
 
-#Cinfo
+#DBInfo
 {
     background-color: #76323f;
     color: #d8bea5;
@@ -46,14 +46,14 @@ h2
     transition: 1s;
 }
 
-#Cinfo:hover
+#DBInfo:hover
 {
     box-shadow: 10px 10px #565656;
     margin-left: 1vw;
     padding-left: .5vw;
 }
 
-#Pythoninfo
+#DotaInfo
 {
     background-color: #76323f;
     color: #d8bea5;
@@ -62,14 +62,14 @@ h2
     transition: 1s;
 }
 
-#Pythoninfo:hover
+#DotaInfo:hover
 {
     box-shadow: 10px 10px #565656;
     margin-left: 1vw;
     padding-left: .5vw;
 }
 
-#Researchinfo
+#HashingInfo
 {
     background-color: #76323f;
     color: #d8bea5;
@@ -78,7 +78,103 @@ h2
     transition: 1s;
 }
 
-#Researchinfo:hover
+#Hashinginfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: 1vw;
+    padding-left: .5vw;
+}
+
+#SortingInfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#SortingInfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: 1vw;
+    padding-left: .5vw;
+}
+
+#SudokuInfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#SudokuInfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: 1vw;
+    padding-left: .5vw;
+}
+
+#CheckersInfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#CheckersInfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: 1vw;
+    padding-left: .5vw;
+}
+
+#CameraInfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#Camerainfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: 1vw;
+    padding-left: .5vw;
+}
+
+#RubyInfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#RubyInfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: 1vw;
+    padding-left: .5vw;
+}
+
+#WebInfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#WebInfo:hover
 {
     box-shadow: 10px 10px #565656;
     margin-left: 1vw;
