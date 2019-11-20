@@ -1,20 +1,86 @@
 body
 {
-    background-color: darkslategray;
+    background-color: #D5D5D5;
 }
 
 .container
 {
-    background-color: white;
+    margin: 0;
+    padding: 0;
 }
 
-.page-header
+h1
 {
-    border: none;
-    border-bottom: 2px solid black;
+    color: #565656;
+    padding-bottom: 1cm;
+    border-bottom: 1px solid #565656;
 }
 
-#info
+h2
 {
-    border: medium inset black;
+    background-color: #76323f;
+}
+
+#Javainfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #1d2731;
+    transition: 1s;
+}
+
+#Javainfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: .5vw;
+    padding-left: .5vw;
+}
+
+#Cinfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#Cinfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: .5vw;
+    padding-left: .5vw;
+}
+
+#Pythoninfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#Pythoninfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: .5vw;
+    padding-left: .5vw;
+}
+
+#Researchinfo
+{
+    background-color: #76323f;
+    color: #d8bea5;
+    margin: 1vw;
+    border: 1px solid #565656;
+    transition: 1s;
+}
+
+#Researchinfo:hover
+{
+    box-shadow: 10px 10px #565656;
+    margin-left: .5vw;
+    padding-left: .5vw;
 }
