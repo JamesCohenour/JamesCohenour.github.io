@@ -33,7 +33,7 @@ h2
 #Javainfo:hover
 {
     box-shadow: 10px 10px #565656;
-    margin-left: .5vw;
+    margin-left: 1vw;
     padding-left: .5vw;
 }
 
@@ -49,7 +49,7 @@ h2
 #Cinfo:hover
 {
     box-shadow: 10px 10px #565656;
-    margin-left: .5vw;
+    margin-left: 1vw;
     padding-left: .5vw;
 }
 
@@ -65,7 +65,7 @@ h2
 #Pythoninfo:hover
 {
     box-shadow: 10px 10px #565656;
-    margin-left: .5vw;
+    margin-left: 1vw;
     padding-left: .5vw;
 }
 
@@ -81,6 +81,6 @@ h2
 #Researchinfo:hover
 {
     box-shadow: 10px 10px #565656;
-    margin-left: .5vw;
+    margin-left: 1vw;
     padding-left: .5vw;
 }

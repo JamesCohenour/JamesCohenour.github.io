@@ -1,0 +1,152 @@
+Outputs: 
+
+
+NAME                                               ADDRESS                                            MAJOR                                              DEPARTMENT                               JOB                            BID       BTYPE   
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------------------------- ------------------------------ --------- --------
+Justin Trust                                       101 City Drive, Normal IL                          Business Adminstration                                                                                                     12345678  Student 
+Fuxia Cheng                                        482 Bumpin Grove, New York NY                                                                         Mathematics                                                             99985678  Faculty 
+Jeremiah Stone                                     300 Fiddy Circle, Bloomington IL                   Information Technology                                                                                                     39245678  Student 
+William Merandas                                   13 Fire Street, Las Vegas NV                                                                                                                   Janitor                        22245678  Other   
+Willus Millus                                      14 Curtus Lane, Normal IL                                                                             Physics                                                                 22245671  Faculty 
+
+
+TITLE                          ID         PUBNAME                                            BID       CHECK_OUT RETURN_DA
+------------------------------ ---------- -------------------------------------------------- --------- --------- ---------
+An Unfortunate Event           1000000001 New World Order Society                                                         
+Some Court Hearing             1000000002 New World Order Society                                                         
+Court Hearing for Casey        1000000003 New World Order Society                                                         
+CocaCola Company Presentation  1000000004 Carmonik Corporation                               12345678  12-JUN-19 12-SEP-19
+Pepsi Presentation             1000000005 Carmonik Corporation                                                            
+Bible                          2000000001 Paper Arts                                         22245671  11-APR-19 11-JUL-19
+The Book of Enoch              2000000002 Paper Arts                                                                      
+Fahrenheit 451                 2000000003 Paper Arts                                                                      
+1984                           2000000004 Paper Arts                                         12345678  19-APR-19 19-APR-19
+The Atonement                  2000000005 Maxwell Publishing                                                              
+The Diary of Anne Frank        3000000001 Maxwell Publishing                                                              
+
+TITLE                          ID         PUBNAME                                            BID       CHECK_OUT RETURN_DA
+------------------------------ ---------- -------------------------------------------------- --------- --------- ---------
+Journal of My Friend           3000000002 Maxwell Publishing                                                              
+My Girlfriends Journal         3000000003 Carmonik Corporation                                                            
+The Story of Abe Lincoln       3000000004 New World Order Society                                                         
+Encyclopedia Dramatica         3000000005 Carmonik Corporation                                                            
+Is the Order a Rabbit?         5000000001 New World Order Society                                                         
+Beat 17                        5000000002 Sunrise International                                                           
+Fortune 500                    5000000003 New World Order Society                                                         
+Cosmopolitan                   5000000004 Sunrise International                                                           
+Brave                          5000000005 Sunrise International                                                           
+
+20 rows selected. 
+
+
+BID       ID         ORDERNUMBER
+--------- ---------- -----------
+12345678  1000000004           1
+22245671  2000000004           1
+22245678  2000000001           2
+99985678  2000000001           3
+39245678  2000000001           4
+
+
+BOOK_ID   
+----------
+2000000001
+2000000002
+2000000003
+2000000004
+2000000005
+
+
+TYPE                           PUBLICATI MAGAZINE_I
+------------------------------ --------- ----------
+Shopping                       23-FEB-92 5000000001
+Teen News                      03-NOV-96 5000000002
+Business                       07-JAN-83 5000000003
+Teen News                      25-FEB-08 5000000004
+Shopping                       13-NOV-11 5000000005
+
+
+NAME                                               URL                                                                   
+-------------------------------------------------- ----------------------------------------------------------------------
+Maxwell Publishing                                 http://mpub.org                                                       
+Sunrise International                              http://sri.com                                                        
+Paper Arts                                         http://paperarts.org                                                  
+Carmonik Corporation                               http://carmonikcorp.com                                               
+New World Order Society                            http://novos.order.seclorum.net                                       
+
+
+ENAME                                              ID        
+-------------------------------------------------- ----------
+Al Yanktin                                         1000000002
+Al Yanktin                                         1000000003
+George Bush                                        1000000001
+Pepsi Man                                          1000000005
+William Koch                                       1000000004
+
+
+CDATE     LOCATION                                           CONFERENCE
+--------- -------------------------------------------------- ----------
+11-SEP-01 New York NY                                        1000000001
+12-AUG-11 New York NY                                        1000000002
+14-NOV-16 New York NY                                        1000000003
+22-FEB-92 Coke Land, CA                                      1000000004
+23-FEB-92 Pepsi-Land                                         1000000005
+
+
+ANAME                                    ID        
+---------------------------------------- ----------
+Enoch                                    2000000002
+George Orwell                            2000000004
+God                                      2000000001
+Ian McEwan                               2000000004
+Ray Bradbury                             2000000003
+
+
+VOLUME                                   JOURNAL_ID
+---------------------------------------- ----------
+1                                        3000000001
+3                                        3000000002
+5                                        3000000003
+2                                        3000000004
+2                                        3000000005
+
+
+ID         NAME                                               BID      
+---------- -------------------------------------------------- ---------
+2000000004 Justin Trust                                       12345678 
+
+
+ID         NAME                                               BID      
+---------- -------------------------------------------------- ---------
+2000000001 Willus Millus                                      22245671 
+
+
+NAME                                               TITLE                          CHECK_OUT
+-------------------------------------------------- ------------------------------ ---------
+Justin Trust                                       CocaCola Company Presentation  12-JUN-19
+Willus Millus                                      Bible                          11-APR-19
+Justin Trust                                       1984                           19-APR-19
+
+
+PUBNAME                                              COUNT(*)
+-------------------------------------------------- ----------
+Carmonik Corporation                                        4
+Maxwell Publishing                                          3
+New World Order Society                                     6
+Paper Arts                                                  4
+Sunrise International                                       3
+
+
+ENAME                                              PUBNAME                                            TITLE                         
+-------------------------------------------------- -------------------------------------------------- ------------------------------
+George Bush                                        New World Order Society                            An Unfortunate Event          
+Al Yanktin                                         New World Order Society                            Some Court Hearing            
+Al Yanktin                                         New World Order Society                            Court Hearing for Casey       
+
+
+NAME                                               BID      
+-------------------------------------------------- ---------
+Fuxia Cheng                                        99985678 
+Jeremiah Stone                                     39245678 
+William Merandas                                   22245678 
+Willus Millus                                      22245671 
